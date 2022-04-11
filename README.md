@@ -2,7 +2,7 @@
 
 # Ignite React ToDo
 
-## Esse projeto foi desenvolvido para por em prática o aprendizado sobre estado no React. o app possui as seguintes funcionalidades:
+### Esse projeto foi desenvolvido para por em prática o aprendizado sobre estado no React. o app possui as seguintes funcionalidades:
 <ul>
   <li>Adicionar uma nova tarefa</li>
   <li>Remover nova tarefa</li>
