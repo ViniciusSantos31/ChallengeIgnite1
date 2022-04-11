@@ -14,8 +14,10 @@
 </h2>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-✅ Badges
-Status: Finalizado
+Status: ✅Finalizado
+
+Badges
+https://img.shields.io/aur/last-modified/src
 
 
 
