@@ -16,8 +16,8 @@
 
 Status: ✅Finalizado
 
-Badges
-https://img.shields.io/aur/last-modified/src
+✅Badges
+<img alt="AUR last modified" src="https://img.shields.io/aur/last-modified/src">
 
 
 
